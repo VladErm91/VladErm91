@@ -4,11 +4,9 @@ C удовольствием работаю с этим языком, и про�
 Занимаюсь разработкой backend-приложений на Django, Flask, Fast-Api.
 Имею опыт работы в команде. 
 
-
 ## Основной стек технологий
 
 **Back-end**
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
@@ -19,14 +17,12 @@ C удовольствием работаю с этим языком, и про�
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
 **Databases**
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Tools**
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -37,20 +33,12 @@ C удовольствием работаю с этим языком, и про�
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-
 **Frontend**
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 **Other Technologies**
-
 ![LightFM](https://img.shields.io/badge/lightfm-000000?style=flat-square)
 ![Python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-4b8bbe?style=flat-square)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=VladErm91/&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladErm91/&layout=compact&count_private=true&theme=gruvbox)
 
 
