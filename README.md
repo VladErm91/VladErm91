@@ -23,4 +23,7 @@ C удовольствием работаю с этим языком, и про�
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python-telegram-bot]( https://img.shields.io/badge/python--telegram--bot-4b8bbe?style=for-the-badge)
-
+![MinIO](https://img.shields.io/badge/minio-1E88E5?style=for-the-badge&logo=minio&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![LightFM](https://img.shields.io/badge/lightfm-000000?style=for-the-badge)
