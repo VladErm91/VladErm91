@@ -6,7 +6,6 @@ C удовольствием работаю с этим языком, и про�
 
 
 ## Основной стек технологий
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Back-end**
 
@@ -48,4 +47,10 @@ C удовольствием работаю с этим языком, и про�
 
 ![LightFM](https://img.shields.io/badge/lightfm-000000?style=flat-square)
 ![Python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-4b8bbe?style=flat-square)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=VladErm91/&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladErm91/&layout=compact&count_private=true&theme=gruvbox)
+
 
